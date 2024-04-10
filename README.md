@@ -1,10 +1,10 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Rahul Buswal</h1>
-<p align="center">A passionate Programmer from India</p>
+<h5 align="center">A passionate Programmer from India</h5>
 
 <p align="center"> 
- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Rahul Buswal" /> 
+ <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Rahul Buswal" width ="350"/> 
 </p>
 
 <p align="center"> 
@@ -30,9 +30,13 @@
 
 <h3 align="left">Activity:</h3>
 
-![Rahul's Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahulBaswal&theme=github)
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahulBaswal&theme=github">
+</p>
 
-![Rahul's Graph](https://github-readme-activity-graph.vercel.app/graph?username=RahulBaswal&custom_title=Rahul%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulBaswal&custom_title=Rahul%27s%20GitHub%20Activity%20Graph&bg_color=FFFFFF&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=000000&title_color=000000&area=true">
+</p>
 
 <br><br>
 
@@ -40,17 +44,15 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<div align="left">
-![Rahul's GitHub stats](https://github-readme-stats-es96lq6up-rahuls-projects-30ca0f59.vercel.app/api?username=RahulBaswal&count_private=true&show_icons=true&hide=contribs,prs)
-</div>
-
-<div align="center">
-![Rahul's GitHub stats](https://github-readme-stats-es96lq6up-rahuls-projects-30ca0f59.vercel.app/api/top-langs/?username=RahulBaswal&layout=compact)
-</div>
-
-<div align="right">
-![Rahul's GitHub stats](https://streak-stats.demolab.com/?user=RahulBaswal&mode=weekly)
-</div>
+<p align="left">
+<img src="https://github-readme-stats-es96lq6up-rahuls-projects-30ca0f59.vercel.app/api?username=RahulBaswal&count_private=true&show_icons=true&hide=contribs,prs">
+</p>
+<p align="center">
+<img src="https://github-readme-stats-es96lq6up-rahuls-projects-30ca0f59.vercel.app/api/top-langs/?username=RahulBaswal&layout=compact">
+</p>
+<p align="right">
+<img src="https://streak-stats.demolab.com/?user=RahulBaswal&mode=weekly">
+</p>
 
 <br><br>
 
@@ -62,13 +64,9 @@
 <p align="center">
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
   
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RahulBaswal&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
- </div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RahulBaswal&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
- </div>
+<p align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=RahulBaswal&column=4&row=2">
+</p>
  <br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
