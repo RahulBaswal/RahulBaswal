@@ -1,16 +1,81 @@
-### Hi there 👋
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<!--
-**RahulBaswal/RahulBaswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Rahul Buswal</h1>
+<h3 align="center">A passionate Programmer from India</h3>
 
-Here are some ideas to get you started:
+<p align="center"> 
+ <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Rahul Buswal" /> 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=RahulBaswal&label=Profile%20views&color=0e75b6&style=flat" alt="Rahul Buswal" /> 
+</p>
+
+<p align="center">
+  <a href="https://github.com/RahulBaswal">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="mailto: rb.rahulbaswal@gmail.com">
+  <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/rahul-buswal/">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"></a>
+<a href="https://www.instagram.com/rahul__baswal/">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"></a>
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgresql,git,github,postman,linux">
+</p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Activity:</h3>
+
+![Rahul's Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahulBaswal&theme=github)
+
+![Rahul's Graph](https://github-readme-activity-graph.vercel.app/graph?username=RahulBaswal&custom_title=Rahul%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">GitHub Stats:</h3>
+
+<div align="left">
+![Rahul's GitHub stats](https://github-readme-stats-es96lq6up-rahuls-projects-30ca0f59.vercel.app/api?username=RahulBaswal&count_private=true&show_icons=true&hide=contribs,prs)
+</div>
+
+<div align="center">
+![Rahul's GitHub stats](https://github-readme-stats-es96lq6up-rahuls-projects-30ca0f59.vercel.app/api/top-langs/?username=RahulBaswal&layout=compact)
+</div>
+
+<div align="right">
+![Rahul's GitHub stats](https://streak-stats.demolab.com/?user=RahulBaswal&mode=weekly)
+</div>
+
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+<h3 align="left">Trophy:</h3>
+
+<p align="center">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+  
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=RahulBaswal&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
+ </div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=RahulBaswal&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+ </div>
+ <br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://raw.githubusercontent.com/RahulBaswal/RahulBaswal/output/snake.svg" alt="Snake animation" />
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+<br>
+<p align="right" > Created with 🧡 by <b>Rahul Buswal</b></p>
