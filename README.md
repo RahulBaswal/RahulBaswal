@@ -1,7 +1,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Rahul Buswal</h1>
-<h3 align="center">A passionate Programmer from India</h3>
+<p align="center">A passionate Programmer from India</p>
 
 <p align="center"> 
  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Rahul Buswal" /> 
@@ -15,7 +15,7 @@
   <a href="https://github.com/RahulBaswal">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="mailto: rb.rahulbaswal@gmail.com">
-  <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"></a>
 <a href="https://www.linkedin.com/in/rahul-buswal/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"></a>
 <a href="https://www.instagram.com/rahul__baswal/">
@@ -71,8 +71,6 @@
  </div>
  <br><br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<img src="https://raw.githubusercontent.com/RahulBaswal/RahulBaswal/output/snake.svg" alt="Snake animation" />
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
