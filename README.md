@@ -1,7 +1,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Rahul Buswal</h1>
-<h5 align="center">A passionate Programmer from India</h5>
+<h4 align="center">A passionate Programmer from India</h4>
 
 <p align="center"> 
  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Rahul Buswal" width ="350"/> 
@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulBaswal&custom_title=Rahul%27s%20GitHub%20Activity%20Graph&bg_color=FFFFFF&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=000000&title_color=000000&area=true">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulBaswal&custom_title=Rahul%27s%20GitHub%20Activity%20Graph&bg_color=FFFFFF&color=29b125&line=29b125&point=29b125&area_color=000000&title_color=000000&area=true">
 </p>
 
 <br><br>
