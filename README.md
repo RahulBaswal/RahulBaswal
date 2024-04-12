@@ -45,10 +45,10 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p align="left">
-<img src="https://github-readme-stats-es96lq6up-rahuls-projects-30ca0f59.vercel.app/api?username=RahulBaswal&count_private=true&show_icons=true&hide=contribs,prs">
+<img src="https://github-readme-stats-peach-tau-89.vercel.app/api?username=RahulBaswal&count_private=true&show_icons=true&hide=contribs,prs">
 </p>
 <p align="center">
-<img src="https://github-readme-stats-es96lq6up-rahuls-projects-30ca0f59.vercel.app/api/top-langs/?username=RahulBaswal&layout=compact">
+<img src="https://github-readme-stats-peach-tau-89.vercel.app/api/top-langs/?username=RahulBaswal&layout=compact">
 </p>
 <p align="right">
 <img src="https://streak-stats.demolab.com/?user=RahulBaswal&mode=weekly">
